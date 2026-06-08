@@ -1,0 +1,7 @@
+# compiled MQL binaries — ship source only
+*.ex5
+*.ex4
+
+# logs / tester output
+*.log
+Tester/
